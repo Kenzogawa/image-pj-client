@@ -47,7 +47,7 @@ export default function Home() {
       <Head>
         <title>タイトル</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
-        <meta http-equiv='Content-Language' content='ja' />
+        <meta http-equiv='content-language' content='ja' />
         <meta property='og:title' content='タイトル' key='title' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
